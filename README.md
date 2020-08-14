@@ -1,3 +1,10 @@
+React Project based on Complete React Developer course by Andrei Neagoie.
+
+Check it out here:
+https://dudlish.github.io/monsters-rolodex/
+
+___________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
